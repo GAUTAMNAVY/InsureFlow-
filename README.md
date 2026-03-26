@@ -1,5 +1,4 @@
-# 📊 
-InsureFlow
+# 📊 InsureFlow
 
 ![CI/CD Status](https://github.com/GAUTAMNAVY/InsureFlow-/blob/main/.github/workflows/ci.yml)
 [![Python](https://img.shields.io/badge/Python-3.13+-blue.svg)](https://www.python.org/downloads/)
