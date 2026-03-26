@@ -1,6 +1,7 @@
-# 📊 User Research to Product Spec: Reducing Productivity Tool Abandonment
+# 📊 
+InsureFlow
 
-![CI/CD Status](https://github.com/iamAyushSaxena/User-Research-Product-Spec/actions/workflows/ci.yml/badge.svg)
+![CI/CD Status](https://github.com/GAUTAMNAVY/InsureFlow-/blob/main/.github/workflows/ci.yml)
 [![Python](https://img.shields.io/badge/Python-3.13+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.31+-red.svg)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
