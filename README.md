@@ -13,7 +13,6 @@
 
 > **A comprehensive user research project demonstrating PM skills in qualitative user research, behavioural synthesis, persona development, and product specification.**
 
-**📱 [Live Demo](https://ayush-saxena-user-research-spec.streamlit.app/)** | **📄 [Full PRD](prd/progressive_productivity_prd.md)** | **🔬 [Methodology](docs/methodology.md)**
 
 ---
 
@@ -388,74 +387,11 @@ This project showcases essential Product Manager competencies:
 
 ---
 
-## 🤝 Contributing
-
-This is a portfolio project, but contributions are welcome!
-
-### How to Contribute
-
-1. **Fork the repository**
-2. **Create feature branch** (`git checkout -b feature/improvement`)
-3. **Commit changes** (`git commit -m 'Add improvement'`)
-4. **Push to branch** (`git push origin feature/improvement`)
-5. **Open Pull Request**
-
-### Contribution Ideas
-- Additional visualization types
-- Alternative analysis methods
-- UI/UX improvements to dashboard
-- Documentation enhancements
-- Bug fixes
 
 ---
 
-## 📄 License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
-**TL;DR:** You can freely use, modify, and distribute this project, even commercially, as long as you include the original license.
-
----
-
-## 🙏 Acknowledgments
-
-- **Inspired by real struggles** with productivity tools
-- **22 anonymous participants** who generously shared their experiences
-- **Anthropic's Claude** for methodology guidance and research support
-- **Streamlit community** for dashboard examples and best practices
-- **Open source community** for the libraries that made this possible
-
----
-
-## 📞 Contact & Connect
-
-**👤Author:** Ayush Saxena
-
-- 💼 **LinkedIn:** [Ayush Saxena](https://www.linkedin.com/in/ayushsaxena8880/)
-- 🐙 **GitHub:** [iamAyushSaxena](https://github.com/iamAyushSaxena)
-- 📧 **Email:** aysaxena8880@gmail.com
-
----
-
-## ⭐ Star This Project
-
-If you found this project helpful or impressive, please consider:
-- ⭐ **Starring the repository** (helps others discover it)
-- 🔄 **Sharing on LinkedIn** (tag me!)
-- 💬 **Providing feedback** (open an issue with suggestions)
-- 🍴 **Forking for your own research** (with attribution)
-
----
-
-**⭐ Star this repository if you found it valuable!**
-
-**💬 Questions? [Open an issue](https://github.com/iamAyushSaxena/user-research-product-spec/issues)**
-
-**🤝 Feedback? [Start a discussion](https://github.com/iamAyushSaxena/user-research-product-spec/discussions)**
-
----
-
-*Built with ❤️ to demonstrate PM skills for career transition*
 
 
 
